@@ -1,5 +1,6 @@
 USH = 0
 USL = 0
+basic.clear_screen()
 radio.set_group(1)
 radio.set_frequency_band(7)
 
